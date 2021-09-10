@@ -7,7 +7,7 @@ on:
       - "v*"
 
 env:
-  BINDLE_URL: http://bindle.f1sh.ca:8080/v1
+  BINDLE_URL: https://bindle.f1sh.ca:8080/v1
   HIPPO_URL: https://hippo.f1sh.ca/
 
 jobs:
